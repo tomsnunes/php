@@ -1,7 +1,5 @@
 <?php
 
-	echo "Olá Mundo!";
-	
-	echo "Git!";
+	echo "Hello Git!";
 	
 ?>
